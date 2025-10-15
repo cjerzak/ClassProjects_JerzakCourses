@@ -14,7 +14,7 @@ This page collects projects created by students in [Connor Jerzak](https://conn
 
 ## Additional data asset
 
-- **LLM Debiasing Benchmark** – a Hugging Face dataset that accompanies the paper *Benchmarking Debiasing Methods for LLM‑based Parameter Estimates*.  It contains texts and large‑language‑model (LLM) annotations drawn from four corpora (Bias in Biographies, Misinfo‑general, Amazon Reviews and GermEval18) and uses four different models (DistilBERT + logistic regression, Phi‑4, DeepSeek v3 and Claude 3.7 Sonnet)https://huggingface.co/datasets/nicaudinet/llm-debiasing-benchmark/raw/main/README.md#:~:text=%23%20Dataset%20Card%20for%20LLM.  The dataset includes annotations and experiment files in separate foldershttps://huggingface.co/datasets/nicaudinet/llm-debiasing-benchmark/raw/main/README.md#:~:text=%23%20Dataset%20Card%20for%20LLM.  [Link](https://huggingface.co/datasets/nicaudinet/llm-debiasing-benchmark).
+- **LLM Debiasing Benchmark** – a Hugging Face dataset that accompanies the paper *Benchmarking Debiasing Methods for LLM‑based Parameter Estimates*.  It contains texts and large‑language‑model (LLM) annotations drawn from four corpora (Bias in Biographies, Misinfo‑general, Amazon Reviews and GermEval18) and uses four different models (DistilBERT + logistic regression, Phi‑4, DeepSeek v3 and Claude 3.7 Sonnet).  The dataset includes annotations and experiment files in separate folders.  [Link](https://huggingface.co/datasets/nicaudinet/llm-debiasing-benchmark).
 
 ## Contributing new projects
 
