@@ -1,6 +1,6 @@
 # Student Projects Showcase - Connor Jerzak’s Courses 
 
-This page collects projects created by students in **Connor Jerzak’s courses** and highlights data assets and code repositories associated with those projects.  Wherever possible, links are provided to GitHub repositories or Hugging Face datasets so that other learners can explore the work. 
+This page collects projects created by students in **[Connor Jerzak](https://connorjerzak.com/teaching/)’s courses** and highlights data assets and code repositories associated with those projects.  Wherever possible, links are provided to GitHub repositories or Hugging Face datasets so that other learners can explore the work. 
 
 ## Featured projects from *Making Big Data*
 
